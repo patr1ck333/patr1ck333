@@ -1,4 +1,4 @@
-# Hi there 👋 
+# Welcome to my group project github👋 
 
 I'm currently a student at the University of Waterloo studying Mechatronics (Class of 2026). I'm passionate about building scalable software, designing efficient systems, and bringing complex projects to life. 
 
