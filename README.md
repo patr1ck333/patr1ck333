@@ -7,6 +7,8 @@ I'm currently a student at the University of Waterloo studying Mechatronics (Cla
 #### 📌 The Problem: "Closet Blindness"
 DressCode was built to solve **closet blindness** i.e. the tendency for users to forget their physical inventory. This lack of visibility leads to redundant purchases, wasted time during daily styling, and underutilized wardrobe assets.
 
+**Video Link:** https://m.youtube.com/watch?v=G13cOLtp0lw
+
 #### 🏗️ Architecture & Technical Stack
 
 | Layer | Technology | Role |
