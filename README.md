@@ -46,3 +46,33 @@ The team designed and engineered a high-concurrency ground station and data pipe
 
 ---
 
+### 3. 💳 CardSmart: Point-of-Sale Reward Optimizer
+**Wireframe Mockups:** [View on Figma](https://www.figma.com/design/bozJKH8JDelh0fDSI2AgVR/SYDE-542?node-id=0-1&p=f)  
+**Interactive Prototype:** [patr1ck333/Card-Rewards-Maximizer](https://github.com/patr1ck333/Card-Rewards-Maximizer)
+
+#### 📌 The Problem: "Checkout Cognitive Overload"
+Multi-card holders frequently lose out on financial rewards due to the high cognitive load and social pressure of a checkout line. In the 5-10 second payment window, mapping an ambiguous merchant to the optimal reward category requires too much effort, causing users to abandon optimization and fall back on a permanent, suboptimal digital wallet default.
+
+#### 🏗️ Research & Design Methodology
+
+| Phase | Method | Focus |
+| :--- | :--- | :--- |
+| **Discovery** | **Unobtrusive Observation** | Tracked hesitation, card switching, and digital default biases across 30 shoppers in varying retail environments. |
+| **Evaluation** | **Heuristic Analysis** | Applied Nielsen’s 10 Usability Heuristics to low-fidelity designs to resolve structural disorientation and improve error prevention. |
+| **Testing** | **Usability Studios** | Measured cognitive load, temporal demand, and Single Ease Questions (SEQ) using the NASA-TLX framework across interactive prototype iterations. |
+
+<hr>
+
+#### 🚀 Key UX & Technical Achievements
+
+##### 🤖 Context-Aware Merchant Detection
+* **Automated Decision Engine:** Designed a frictionless NFC/GPS detection flow that automatically surfaces the highest-yielding card for a specific merchant right at the point of sale.
+* **Error Recovery:** Engineered robust fallback states, including manual merchant entry overrides, addressing edge cases where location or terminal detection fails.
+
+##### 📊 Trust & Savings Transparency
+* **Explainable Recommendations:** Built a transparent "Why this card?" breakdown that plainly justifies the recommendation (e.g., comparing point multipliers) to build user trust without cognitive strain.
+* **Savings Dashboard:** Designed a dedicated financial tracking interface showcasing month-over-month trends, average reward rates, and an itemized history of optimized transactions to validate the app's value proposition.
+
+##### 🔄 Iterative UI Refinement
+* **Data-Driven Navigation:** Transitioned from a disorienting linear onboarding flow to a robust hub-and-spoke model featuring a Home Dashboard and dedicated Wallet tab based on direct usability testing feedback.
+* **Friction Reduction:** Refined payment confirmation steps to mirror native Apple Pay/Google Wallet interactions, significantly reducing perceived checkout delays and user frustration.
