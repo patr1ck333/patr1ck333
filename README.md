@@ -1,6 +1,6 @@
 # Welcome to my Group Project Github! 👋 
 
-I am a recent graduate from the University of Waterloo in Mechatronics Engineering (Class of 2026) and someone who is passionate about building scalable software, designing efficient systems, and bringing complex projects to life as seen in my projects :). 
+I am a recent graduate from the University of Waterloo in Mechatronics Engineering (Class of 2026) and someone who is passionate about building scalable software, designing efficient systems, and bringing complex projects to life :). 
 
 ## 🔒 Currently Building/Built (Private Repos)
 ### 1. 👗 DressCode: Digital Wardrobe Management (Android & Kotlin)
