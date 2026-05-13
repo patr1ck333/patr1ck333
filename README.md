@@ -47,7 +47,7 @@ The team designed and engineered a high-concurrency ground station and data pipe
 ---
 
 ### 3. 💳 CardSmart: Point-of-Sale Reward Optimizer
-**Wireframe Mockups:** [View on Figma](https://www.figma.com/design/HgzrSRza60d1UKckvPTnxn/CardSmart-Mockups?node-id=0-1&t=iAgv9E7lOMVy7ND0-1)  
+**Figma Mockups:** [View on Figma](https://www.figma.com/design/HgzrSRza60d1UKckvPTnxn/CardSmart-Mockups?node-id=0-1&t=iAgv9E7lOMVy7ND0-1)  
 **Interactive Prototype:** [patr1ck333/Card-Rewards-Maximizer](https://github.com/patr1ck333/Card-Rewards-Maximizer)
 
 #### 📌 The Problem: "Checkout Cognitive Overload"
