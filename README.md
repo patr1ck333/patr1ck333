@@ -2,7 +2,7 @@
 
 I am a recent graduate from the University of Waterloo in Mechatronics Engineering (Class of 2026) and someone who is passionate about building scalable software, designing efficient systems, and bringing complex projects to life :). 
 
- ### 🔗Link to my Group Personal Project Github: https://github.com/patr1ckleon
+ ### 🔗Link to my Personal Project Github: https://github.com/patr1ckleon
 
 ## 🔒 Currently Building/Built (Private Repos)
 ### 1. 👗 DressCode: Digital Wardrobe Management (Android & Kotlin)
